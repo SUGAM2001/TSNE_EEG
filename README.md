@@ -4,7 +4,6 @@
 
 # Data:
 
-
 1) EEGLearn ([Link to the repository](https://github.com/pbashivan/EEGLearn)) Sample data.
 
 First, Install requirements:
